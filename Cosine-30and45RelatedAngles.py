@@ -1,7 +1,9 @@
-#THIS IS Cosine-30and45RelatedAngles.py, where you can get the value of the cosine of a given angle related from
-#30 degrees - pi/6 and 45 degrees - pi/4
-
 import math
+
+
+'''THIS IS Cosine-30and45RelatedAngles.py, where you can get the value of the cosine of a given angle related from
+30 degrees - pi/6 and 45 degrees - pi/4
+An angle is 30-45 related when it can be gotten by applying half-angle cosine formulae.'''
 
 
 print("\nCOSINE OF PI/6 (30 degrees) AND PI/4 (45 degrees) RELATED ANGLES\n")
